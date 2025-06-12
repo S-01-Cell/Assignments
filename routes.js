@@ -11,12 +11,12 @@ app.get('/album', (req, res) => {
 });
 
 // Price route
-app.get('/price', (req, res) => {
+app.get('/album/price', (req, res) => {
     res.sendFile(path.join(__dirname, 'price.html'));
 });
 
 //Form route
-app.get('/form', (req, res) => {
+app.get('/album/price/form', (req, res) => {
     res.sendFile(path.join(__dirname, 'contact form.html'));
 });
 

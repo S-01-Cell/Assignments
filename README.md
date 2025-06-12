@@ -3,11 +3,11 @@
 ### Creating HTML pages using Bootstrap 5
 
 Album Page
-![Album Image](album.png)
+![Album Image](assets/album.png)
 
 Form Page
-![Form Image](form.png)
+![Form Image](assets/form.png)
 
 Price Page
-![Price Image](price.png)
+![Price Image](assets/price.png)
 
